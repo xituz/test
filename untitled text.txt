@@ -1,0 +1,2 @@
+- Il consenso alla geolocalizzazione deve essere richiesta quando si effettua una ricerca per chilometro dell'utente, alcune persone si sentono quasi violentata dalla richiesta.
+
